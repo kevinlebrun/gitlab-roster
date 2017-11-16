@@ -1,0 +1,4 @@
+package: github.com/kevinlebrun/gitlab-roster
+import:
+- package: github.com/xanzy/go-gitlab
+  version: ^0.6.2
